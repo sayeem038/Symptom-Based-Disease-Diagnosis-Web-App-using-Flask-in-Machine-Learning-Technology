@@ -1,4 +1,4 @@
-<h1 align="center">Hi, This is the first page preview of this website </h1>
+<h1 align="center">Hi, This is the Home page scene of this website </h1>
 
 <div align="center"><img src="https://github.com/sayeem038/Medicine-Recomendation/blob/main/med/Screenshot%202024-07-16%20223734.png"></div>
 
